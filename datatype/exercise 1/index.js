@@ -1,4 +1,4 @@
-// Exercise 1 - Troubleshooting
+// Exercise 1 - Troubleshooting exercise
 
 const abTroubleshoot = require("./troubleshooting");
 
